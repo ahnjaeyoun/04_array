@@ -233,8 +233,8 @@ public class ArrayExample1 {
 	}
 
 	public void ex5() {
-		// 배열 선언과 동시에 초기화
 		
+		// 배열 선언과 동시에 초기화
 		char[] arr = new char[5];
 		
 		// char[] arr이 참조하는 배열 요소에 A, B, C, D, E 대입하기
